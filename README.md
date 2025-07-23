@@ -12,4 +12,4 @@ My name is Tai-pt. I am a JavaDeveloper skilled in developing Web applications, 
 ### ✨ Projects:
 | Project | Description | Tech |
 |--------|-------------|------|
-| [**Smart-Sport-Camera**](https://github.com/tai-pt/Laptopshop) | Focuses on notable activity during a match. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
+| [**LapTopShop**](https://github.com/tai-pt/Laptopshop) | Focuses on notable activity during a match. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
